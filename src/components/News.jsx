@@ -23,7 +23,7 @@ const News = () => {
   return (
     <section id="news" className="news-section">
       <div className="section-container">
-        <h2 className="section-title">Recent News</h2>
+        <h2 className="section-title">news</h2>
         <div className="news-content">
           <ul className="news-list">
             {news.map((item, index) => (
