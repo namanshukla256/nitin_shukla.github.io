@@ -13,7 +13,7 @@ const PatentsSection = () => {
   return (
     <section id="patents" className="publications-section">
       <div className="section-container">
-        <h2 className="section-title">Patents</h2>
+        <h2 className="section-title">patents</h2>
         <div className="publications-content">
           {patents.map((patent, index) => (
             <div key={index} className="publication-item">

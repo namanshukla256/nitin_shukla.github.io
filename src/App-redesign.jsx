@@ -3,10 +3,10 @@ import './App.css';
 
 import Navbar from './components/Navbar';
 import HeroAboutSection from './components/HeroAboutSection';
-import News from './components/News';
-import ProjectsSection from './components/ProjectsSection';
 import PublicationsSection from './components/PublicationsSection';
+import ProjectsSection from './components/ProjectsSection';
 import PatentsSection from './components/PatentsSection';
+import CVSection from './components/CVSection';
 import Footer from './components/Footer';
 
 function App() {
@@ -15,10 +15,10 @@ function App() {
       <Navbar />
       <main>
         <HeroAboutSection />
-        <News />
+        <PublicationsSection />
         <ProjectsSection />
         <PatentsSection />
-        <PublicationsSection />
+        <CVSection />
       </main>
       <Footer />
     </div>
