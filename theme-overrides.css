@@ -1,0 +1,136 @@
+/* Complete CSS update with theme variable support - add this to the bottom of App.css */
+
+/* Update section title colors */
+.section-title {
+    color: var(--text-primary);
+}
+
+/* Update hero/about section */
+.hero-name {
+    color: var(--text-primary);
+}
+
+.hero-affiliation {
+    color: var(--link-color);
+}
+
+.hero-affiliation a {
+    color: var(--link-color);
+}
+
+.about-text p {
+    color: var(--text-secondary);
+}
+
+.about-text a {
+    color: var(--link-color);
+}
+
+.about-text strong {
+    color: var(--text-primary);
+}
+
+.profile-image {
+    border: 3px solid var(--border-color);
+}
+
+.social-icon {
+    color: var(--text-secondary);
+}
+
+.social-icon:hover {
+    color: var(--link-color);
+}
+
+/* Update publications section */
+.publications-section {
+    background-color: var(--bg-primary);
+}
+
+.publication-item {
+    border-bottom: 1px solid var(--border-color);
+}
+
+.publication-title {
+    color: var(--text-primary);
+}
+
+.publication-title a {
+    color: var(--text-primary);
+}
+
+.publication-title a:hover {
+    color: var(--link-color);
+}
+
+.publication-authors {
+    color: var(--text-secondary);
+}
+
+.publication-venue {
+    color: var(--text-tertiary);
+}
+
+.publication-venue em {
+    color: var(--text-secondary);
+}
+
+.publication-link-btn {
+    color: var(--link-color);
+    border: 1px solid var(--border-color);
+}
+
+.publication-link-btn:hover {
+    background-color: var(--bg-secondary);
+    border-color: var(--link-color);
+}
+
+/* Update projects section */
+.project-card {
+    background-color: var(--card-bg);
+    border: 1px solid var(--border-color);
+}
+
+.project-card:hover {
+    border-color: var(--card-hover-border);
+}
+
+.project-title {
+    color: var(--text-primary);
+}
+
+.project-description p {
+    color: var(--text-secondary);
+}
+
+.project-link {
+    color: var(--link-color);
+    border: 1px solid var(--border-color);
+}
+
+.project-link:hover {
+    background-color: var(--bg-secondary);
+    border-color: var(--link-color);
+}
+
+/* Update footer */
+.footer-section {
+    background: var(--bg-primary);
+    border-top: 1px solid var(--border-color);
+}
+
+.footer-text {
+    color: var(--text-tertiary);
+}
+
+.footer-text a {
+    color: var(--link-color);
+}
+
+/* Mobile menu overlay for light theme */
+@media (max-width: 768px) {
+    .nav-links {
+        background: var(--bg-primary);
+        border-left: 1px solid var(--border-color);
+    }
+}

@@ -47,7 +47,7 @@ const ProjectsSection = () => {
   return (
     <section id="projects" className="projects-section">
       <div className="section-container">
-        <h2 className="section-title">Projects</h2>
+        <h2 className="section-title">projects</h2>
         <div className="projects-content">
           {projects.map((project, index) => (
             <ProjectCard key={index} project={project} />
