@@ -5,7 +5,7 @@ const publicationsBib = [
     {
         id: 'panchal2026microbial',
         title: 'Microbial and Metabolite Profiling Reveal the Composition of Beejamrit: A Bioformulation for Seed Treatment in Sustainable Agriculture',
-        authors: 'Panchal, Devarsh, Gajjar, Kartik, Chaudhary, Mahendra, Chaudhary, Doongar, Patel, CK, Shukla, Nitin, Raval, Ishan, Bagatharia, Snehal, Joshi, Chaitanya, Patel, Amrutlal, and others',
+        authors: 'Devarsh Panchal, Kartik Gajjar, Mahendra Chaudhary, Doongar Chaudhary, CK Patel, Nitin Shukla, Ishan Raval, Snehal Bagatharia, Chaitanya Joshi, Amrutlal Patel, and others',
         journal: 'Agriculture',
         volume: '16',
         number: '1',
@@ -28,7 +28,7 @@ const publicationsBib = [
     {
         id: 'shukla2025towards',
         title: 'Towards a Comprehensive Wastewater Virome Atlas for Pathogen Monitoring',
-        authors: 'Shukla, Nitin, Thakor, Jinal, Chavda, Priyank, Purohit, Harshal, Patel, Harshil, Thakar, Saurabh, Raval, Aesha, Prajapati, Jinal, Solanki, Jay, Datta, Deeparati, and others',
+        authors: 'Nitin Shukla, Jinal Thakor, Priyank Chavda, Harshal Purohit, Harshil Patel, Saurabh Thakar, Aesha Raval, Jinal Prajapati, Jay Solanki, Deeparati Datta, and others',
         journal: 'Preprint',
         year: 2025,
         url: 'https://www.biorxiv.org/',
@@ -42,7 +42,7 @@ const publicationsBib = [
     {
         id: 'akshay2025comprehensive',
         title: 'Comprehensive analysis of extensive drug-resistant Salmonella Typhi in Gujarat region, India: genomic findings and prospective alternative therapy',
-        authors: 'Akshay, Sadanand Dangari, Upadhyaya, Heli, Shukla, Nitin, Bhattacharjee, Rohit, Das, Sunilkumar, Vyas, Urmi, Chavda, Priyank, Patel, Nimesh, Jamkhandi, Dixsha, Sabara, Pritesh, and others',
+        authors: 'Sadanand Dangari Akshay, Heli Upadhyaya, Nitin Shukla, Rohit Bhattacharjee, Sunilkumar Das, Urmi Vyas, Priyank Chavda, Nimesh Patel, Dixsha Jamkhandi, Pritesh Sabara, and others',
         journal: 'Microbiology Spectrum',
         pages: 'e02540--24',
         year: 2025,
@@ -61,7 +61,7 @@ const publicationsBib = [
     {
         id: 'nehra2025ruminal',
         title: 'Ruminal microbial responses to Moringa oleifera feed in lactating goats (Capra hircus): A metagenomic exploration',
-        authors: 'Nehra, Chitra, Harshini, Vemula, Shukla, Nitin, Chavda, Priyank, Bhure, Minal, Savaliya, Kaksha, Patil, Sonal, Shah, Tejas, Pandit, Ramesh, Patil, Niteen V, and others',
+        authors: 'Chitra Nehra, Vemula Harshini, Nitin Shukla, Priyank Chavda, Minal Bhure, Kaksha Savaliya, Sonal Patil, Tejas Shah, Ramesh Pandit, Niteen V Patil, and others',
         journal: 'New Biotechnology',
         volume: '86',
         pages: '87--96',
@@ -82,7 +82,7 @@ const publicationsBib = [
     {
         id: 'nehra2024moringa',
         title: 'Moringa leaf meal exerts growth benefits in small ruminants through modulating the gastrointestinal microbiome',
-        authors: 'Nehra, Chitra, Harshini, Vemula, Shukla, Nitin, Chavda, Priyank, Savaliya, Kaksha, Patil, Sonal, Shah, Tejas, Pandit, Ramesh, Patil, Niteen V, Patel, Ashutosh K, and others',
+        authors: 'Chitra Nehra, Vemula Harshini, Nitin Shukla, Priyank Chavda, Kaksha Savaliya, Sonal Patil, Tejas Shah, Ramesh Pandit, Niteen V Patil, Ashutosh K Patel, and others',
         journal: 'Applied Microbiology and Biotechnology',
         volume: '108',
         number: '1',
@@ -105,7 +105,7 @@ const publicationsBib = [
     {
         id: 'shukla2024lncrna',
         title: 'lncRNA-miRNA-mRNA network in kidney transcriptome of Labeo rohita under hypersaline environment',
-        authors: 'Shukla, Nitin, Harshini, Vemula, Raval, Ishan, Patel, Amrutlal K, Joshi, Chaitanya G',
+        authors: 'Nitin Shukla, Vemula Harshini, Ishan Raval, Amrutlal K Patel, Chaitanya G Joshi',
         journal: 'Scientific Data',
         volume: '11',
         number: '1',
@@ -128,7 +128,7 @@ const publicationsBib = [
     {
         id: 'dharajiya2023resistant',
         title: 'Resistant cumin cultivar, GC-4 counters Fusarium oxysporum f. sp. cumini infection through up-regulation of steroid biosynthesis, limonene and pinene degradation and butanoate metabolism pathways',
-        authors: 'Dharajiya, Darshan T, Shukla, Nitin, Pandya, Maharshi, Joshi, Madhvi, Patel, Amrutlal K, Joshi, Chaitanya G',
+        authors: 'Darshan T Dharajiya, Nitin Shukla, Maharshi Pandya, Madhvi Joshi, Amrutlal K Patel, Chaitanya G Joshi',
         journal: 'Frontiers in Plant Science',
         volume: '14',
         pages: '1204828',
@@ -149,7 +149,7 @@ const publicationsBib = [
     {
         id: 'shukla2023integrative',
         title: 'Integrative miRNA-mRNA network analysis to identify crucial pathways of salinity adaptation in brain transcriptome of Labeo rohita',
-        authors: 'Shukla, Nitin, Vemula, Harshini, Raval, Ishan, Kumar, Sujit, Shrivastava, Vivek, Chaudhari, Aparna, Patel, Amrutlal K, Joshi, Chaitanya G',
+        authors: 'Nitin Shukla, Vemula Harshini, Ishan Raval, Sujit Kumar, Vivek Shrivastava, Aparna Chaudhari, Amrutlal K Patel, Chaitanya G Joshi',
         journal: 'Frontiers in Genetics',
         volume: '14',
         pages: '1209843',
@@ -170,7 +170,7 @@ const publicationsBib = [
     {
         id: 'harshini2023interplay',
         title: 'Interplay of gene expression and regulators under salinity stress in gill of Labeo rohita',
-        authors: 'Harshini, Vemula, Shukla, Nitin, Raval, Ishan, Kumar, Sujit, Shrivastava, Vivek, Chaudhari, Aparna, Patel, Amrutlal K, Joshi, Chaitanya G',
+        authors: 'Vemula Harshini, Nitin Shukla, Ishan Raval, Sujit Kumar, Vivek Shrivastava, Aparna Chaudhari, Amrutlal K Patel, Chaitanya G Joshi',
         journal: 'BMC genomics',
         volume: '24',
         number: '1',
@@ -193,7 +193,7 @@ const publicationsBib = [
     {
         id: 'chander2022resistance',
         title: 'Resistance evolution against host-directed antiviral agents: Buffalopox virus switches to use p38-γ under long-term selective pressure of an inhibitor targeting p38-α',
-        authors: 'Chander, Yogesh, Kumar, Ram, Verma, Assim, Khandelwal, Nitin, Nagori, Himanshu, Singh, Namita, Sharma, Shalini, Pal, Yash, Puvar, Apurvasinh, Pandit, Rameshchandra, and others',
+        authors: 'Yogesh Chander, Ram Kumar, Assim Verma, Nitin Shukla, Himanshu Nagori, Namita Singh, Shalini Sharma, Yash Pal, Apurvasinh Puvar, Rameshchandra Pandit, and others',
         journal: 'Molecular biology and evolution',
         volume: '39',
         number: '9',
@@ -216,7 +216,7 @@ const publicationsBib = [
     {
         id: 'harshini2022kidney',
         title: 'Kidney transcriptome response to salinity adaptation in Labeo rohita',
-        authors: 'Harshini, Vemula, Shukla, Nitin, Raval, Ishan, Kumar, Sujit, Shrivastava, Vivek, Patel, Amrutlal K, Joshi, Chaitanya G',
+        authors: 'Vemula Harshini, Nitin Shukla, Ishan Raval, Sujit Kumar, Vivek Shrivastava, Amrutlal K Patel, Chaitanya G Joshi',
         journal: 'Frontiers in Physiology',
         volume: '13',
         pages: '991366',
